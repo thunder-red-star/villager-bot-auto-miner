@@ -7,7 +7,7 @@ Are you or do you:
 Well you've come to the right place!
 
 This is a selfbot addon to send commands to Villager NOT and get quick emeralds!
-**NOTE: THIS IS A SELFBOT, WHICH IS EXPLICITLY BANNED BY DISCORD'S TOS. I DIDN'T PERSONALLY TEST (THEREFORE I DIDN'T BREAK THE TOS) THIS SO IF THERE IS AN ISSUE PLEASE PUT IT INTO ISSUES. USE AT YOUR OWN RISK**
+\n**NOTE: THIS IS A SELFBOT, WHICH IS EXPLICITLY BANNED BY DISCORD'S TOS. I DIDN'T PERSONALLY TEST (THEREFORE I DIDN'T BREAK THE TOS) THIS SO IF THERE IS AN ISSUE PLEASE PUT IT INTO ISSUES. USE AT YOUR OWN RISK**
 
 ## How to use
 0. Make sure you have node.js downloaded. This program runs on node.js.
