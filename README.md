@@ -1,8 +1,8 @@
 # villager-bot-auto-miner
 Are you or do you:
-* ~~tired of `'`apetus11~~?
+* ~~tired of Iapetus11~~?
 * needing to get a lot of emeralds fast and without effort?
-* want to support me in my fight against `l`apetus11?
+* want to support me in my fight against Iapetus11?
 
 Well you've come to the right place!
 
