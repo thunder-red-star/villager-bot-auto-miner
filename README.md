@@ -8,6 +8,8 @@ Well you've come to the right place!
 
 This is a selfbot addon to send commands to Villager NOT and get quick emeralds!
 
+(will be updated to beat the anti-bot mechanism every time Iapetus11 updates it)
+
 **NOTE: THIS IS A SELFBOT, WHICH IS EXPLICITLY BANNED BY DISCORD'S TOS. I DIDN'T PERSONALLY TEST (THEREFORE I DIDN'T BREAK THE TOS) THIS SO IF THERE IS AN ISSUE PLEASE PUT IT INTO ISSUES. USE AT YOUR OWN RISK**
 
 ## How to use
