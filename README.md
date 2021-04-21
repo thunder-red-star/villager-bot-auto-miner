@@ -1,11 +1,12 @@
 # villager-bot-auto-miner
+## Tagline
 Are you or do you:
 * ~~tired of Iapetus11~~?
 * needing to get a lot of emeralds fast and without effort?
 * want to support me in my fight against Iapetus11?
 
 Well you've come to the right place!
-
+## REVENGE!!!
 This is a selfbot addon to send commands to Villager NOT and get quick emeralds!
 
 (will be updated to beat the anti-bot mechanism every time Iapetus11 updates it)
