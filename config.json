@@ -1,0 +1,6 @@
+{
+    "token": "your token here",
+    "channelid": "your channel id here",
+    "command": "!!mine",
+    "cooldown": "2100"
+}
