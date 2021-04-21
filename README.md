@@ -26,4 +26,4 @@ This is a selfbot addon to send commands to Villager NOT and get quick emeralds!
 9. Optionally in `setting` in index.js you can turn off the auto-miner by replacing `1` with `0`.
 
 ## Iapetus11, this isn't coming down until you unmute me.
-~~ew petus get arc on your website~~
+~~ew petus get arc.io on your website~~
