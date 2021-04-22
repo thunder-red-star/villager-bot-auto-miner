@@ -1,3 +1,5 @@
+*update: he botbanned me **and** banned me so this isn't coming down any time soon :)*
+
 # villager-bot-auto-miner
 ## Tagline
 Are you or do you:
