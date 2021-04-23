@@ -12,13 +12,14 @@ setting = 1 // 0 = off, 1 = on
 client.on('message', (msg) => {
     if (msg.author == 639498607632056321 && msg.channel.id == channelid) {
         msg.embeds.forEach((embed) => {
+            try {
             if (embed.description.startsWith("Please solve this problem to continue")) {
                 let problem = embed.description.split("`").slice(1, 2).join("")
                 console.log(problem)
                 const answer = eval(problem)
                 msg.channel.send(answer)
                 console.log(answer)
-            }
+            } } catch (err) {console.log("villager bot sent a meme, imagine")}
         });
     }
 
