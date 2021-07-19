@@ -1,4 +1,4 @@
-*update 2: dead project but if you want it to be revived please make an issue*
+*update 2: dead project but if you want it to be revived please make an issue WITH WHAT YOU WANT TO BE REVIVED / UPDATED (cough Shwayz cough)*
 
 *update: he botbanned me **and** banned me so this isn't coming down any time soon :)*
 
