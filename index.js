@@ -1,5 +1,6 @@
 const Discord = require('discord.js-self');
 const client = new Discord.Client();
+const math = require('math.js')
 const config = require("./config.json")
 
 const command = config.command
@@ -16,7 +17,7 @@ client.on('message', (msg) => {
             if (embed.description.startsWith("Please solve this problem to continue")) {
                 let problem = embed.description.split("`").slice(1, 2).join("")
                 console.log(problem)
-                const answer = eval(problem)
+                const answer = math.evaluate(problem)
                 msg.channel.send(answer)
                 console.log(answer)
             } } catch (err) {console.log("villager bot sent a meme, imagine")}
