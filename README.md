@@ -1,3 +1,5 @@
+*update 4: iapetus11 starred this repo and got my attention congrats! updates have been created based on what i've seen in the villagerbot repo*
+
 *update 3: archived as part of github spring cleaning*
 
 *update 2: dead project but if you want it to be revived please make an issue WITH WHAT YOU WANT TO BE REVIVED / UPDATED (cough Shwayz cough)*
