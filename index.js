@@ -1,11 +1,11 @@
 const Discord = require('discord.js-self');
 const client = new Discord.Client();
-const math = require('math.js')
+const math = require('mathjs')
 const config = require("./config.json")
 
 const command = config.command
 const cooldown = config.cooldown
-const token = config.token
+const token = config.token || process.env.token
 const channelid = config.channelid
 
 setting = 1 // 0 = off, 1 = on
@@ -23,15 +23,18 @@ client.on('message', async (msg) => {
 			// Fetch the message
 			let message = await msg.channel.messages.fetch(msg.id)
 			message.embeds.forEach((embed) => {
+				console.log(embed.description)
 				try {
 					if (embed.description.startsWith("Please solve this problem to continue")) {
 						let problem = clean(embed.description).split("`").slice(1, 2).join("")
 						console.log(problem)
+						// Log problem but with escaped characters
 						const answer = math.evaluate(problem)
 						msg.channel.send(answer)
 						console.log(answer)
 					}
 				} catch (err) {
+					console.log(err)
 					console.log("villager bot sent a meme, imagine")
 				}
 			});
