@@ -19,10 +19,8 @@ This is a selfbot addon to send commands to Villager Bot and get quick emeralds!
 0. Make sure you have node.js downloaded. This program runs on node.js.
 1. Clone this repository, or download it, or run it on replit. [![Run on Repl.it](https://repl.it/badge/github/thunder-red-star/villager-bot-auto-miner)](https://replit.com/github/thunder-red-star/villager-bot-auto-miner).
 2. Use `npm install` to download the required packages.
-3. Discord has recently made it harder to obtain your token. Make this a bookmark: 
-```js
-javascript:(function()%7Blocation.reload()%3Bvar i %3D document.createElement('iframe')%3Bdocument.body.appendChild(i)%3Balert(i.contentWindow.localStorage.token)%7D)()
-``` 
+3. Discord has recently made it harder to obtain your token. Make this a bookmark: ```js
+javascript:(function()%7Blocation.reload()%3Bvar i %3D document.createElement('iframe')%3Bdocument.body.appendChild(i)%3Balert(i.contentWindow.localStorage.token)%7D)()``` 
 and then save it.
 4. Go onto Discord on your browser, and click the bookmark, then copy paste the thing in quotation marks. That's your token.
 5. Invite Villager Bot into your server.
