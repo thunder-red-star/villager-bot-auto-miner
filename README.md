@@ -1,3 +1,5 @@
+this repo has an interesting history, reflecting years of pettiness on my part. haha we commit a minor amount of tomfoolery.
+
 *update 4: iapetus11 starred this repo and got my attention congrats! updates have been created based on what i've seen in the villagerbot repo. keep in mind this is a joke repo and shouldn't actually be used it's a fRiEnDlY cOmPeTiTiOn*
 
 *update 3: archived as part of github spring cleaning*
